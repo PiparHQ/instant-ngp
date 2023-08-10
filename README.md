@@ -1,4 +1,4 @@
-# Pipar ~ Instant Neural Graphics Primitives ![](https://github.com/NVlabs/instant-ngp/workflows/CI/badge.svg)
+# Pipar Instant Neural Graphics Primitives ![](https://github.com/NVlabs/instant-ngp/workflows/CI/badge.svg) Implementation Using GCP
 
 <img src="docs/assets_readme/fox.gif" height="342"/> <img src="docs/assets_readme/robot5.gif" height="342"/>
 
@@ -151,7 +151,7 @@ In VR, you have the following controls.
 
 ## Building instant-ngp (Windows & Linux)
 
-### Requirements
+### System Requirements
 
 - An __NVIDIA GPU__; tensor cores increase performance when available. All shown results come from an RTX 3090.
 - A __C++14__ capable compiler. The following choices are recommended and have been tested:
